@@ -1,0 +1,1 @@
+1. Download Visual studio code terlebih dahulu dan mysql
